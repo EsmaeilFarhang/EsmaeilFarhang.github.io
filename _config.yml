@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Esmaeil Farhang"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Esmaeil Farhang"
 description              : &description "Research Assistant at the University of Tehran Cognitive Systems Lab "
