@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Esmaeil Farhang"
 title_separator          : "-"
 name                     : &name "Esmaeil Farhang"
-description              : &description "Research Assistant at the Cognitive Systems Lab"
+description              : &description "Research Assistant at the University of Tehran Cognitive Systems Lab "
 url                      : https://esmaeilfarhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "EsmaeilFarhang.github.io "
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Esmaeil Farhang"
   avatar           : "profile.png"
-  bio              : "Machine Learning R&D Engineer & Research Assistant at the Cognitive Systems Lab at the University of Tehran"
+  bio              : "Machine Learning R&D Engineer & Research Assistant at the University of Tehran Cognitive Systems Lab"
   location         : "Tehran-Iran"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
