@@ -17,10 +17,10 @@ EDUCATION
 
 ACADEMIC EXPERIENCE
 ======
-  * June 2018-now:Research Assistant 
+  * June 2018 - now:Research Assistant 
     * University of Tehran Cognitive Systems Lab
-    * Supervisor: Dr.Mohammad Reza Abolghasemi Dehaghani & Dr. Babak Arabi
     * Thesis title: "‫‪Effect‬‬ ‫‪of‬‬ ‫‪spatial‬‬ ‫‪frequency‬‬ ‫‪content‬‬ ‫‪on‬‬ ‫‪the‬‬ ‫‪hierarchical‬‬ ‫‪object‬‬ ‫‪recognition‬‬"
+    * Supervisor: Dr.Mohammad Reza Abolghasemi Dehaghani & Dr. Babak Arabi
   
   * Spring 2019 & 2020: Graduate Teaching Assistant 
     * University of Tehran
@@ -47,18 +47,19 @@ WORK EXPERIENCE
   * HiBrainy Co
   * R&D activities on machine learning problems including text to speech, liveness detection, head pose estimation, and face emotion detection, etc.
   
-PROGRAMMING SkILLS
+PROGRAMMING SKILLS
 ======
   * Programming Languages: Python, C/C++, R
   * Deep Learning Frameworks: Pytorch, Tensorflow, Keras
   * Speech Recognition and Synthesis Toolkit: Kaldi, Espnet, Marytts, HTS
   * Other Languages: Familiar with Java, Android, and Haskell Languages
   * Linux / Git / Docker
-Publications
+  
+  
+PUBLICATIONS
 ======
   
  
-Talks
+TALKS
 ======
-  
   
