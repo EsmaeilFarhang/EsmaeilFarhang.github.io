@@ -11,9 +11,9 @@ redirect_from:
 
 EDUCATION
 ======
-* Master of Science-MS, Computer Engineering (AI),University of Tehran,SEP 2017 - SEP 2020
+* Master of Science - MS, Computer Engineering (AI), University of Tehran, SEP 2017 - SEP 2020
  
-* Bachelor of Science-BS. Mathematics and Computer Science, Shiraz University, SEP 2011 - SEP 2106
+* Bachelor of Science - BS. Mathematics and Computer Science, Shiraz University, SEP 2011 - SEP 2106
 
 ACADEMIC EXPERIENCE
 ======
