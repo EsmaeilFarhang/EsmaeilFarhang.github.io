@@ -17,7 +17,7 @@ EDUCATION
 
 ACADEMIC EXPERIENCE
 ======
-  * June 2018 - now:Research Assistant 
+  * June 2018 - now: Research Assistant 
     * University of Tehran Cognitive Systems Lab
     * Thesis title: "‫‪Effect‬‬ ‫‪of‬‬ ‫‪spatial‬‬ ‫‪frequency‬‬ ‫‪content‬‬ ‫‪on‬‬ ‫‪the‬‬ ‫‪hierarchical‬‬ ‫‪object‬‬ ‫‪recognition‬‬"
     * Supervisor: Dr.Mohammad Reza Abolghasemi Dehaghani & Dr. Babak Arabi
