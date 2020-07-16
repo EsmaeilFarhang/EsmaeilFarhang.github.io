@@ -1,6 +1,5 @@
-I am a third year M.Sc. student at the department of ECE at the University of Tehran, Tehran, Iran. I received my B.Sc. degree in 2016 from the Shiraz University, Shiraz, Iran. Since September 2017, I started my Master's program under the supervision of Dr. MohammadReza abolghasemi dehaghani. My main research interests in system neuroscience and machine learning. As a side-work, I have been a member of HiBrainy working on some industrial projects including Text-To-Speech, face anti-spoofing, liveness detection, head pose estimation, face depth estimation, and face emotion detection. All these topics include many uncertainty factors and challenging problems to solve and I'm really happy with what I do in both research and industry. Currently, I am Research Assistant at the University of Tehran Cognitive Systems Lab. 
 
-<!---
+---
 permalink: /
 title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
 excerpt: "About me"
@@ -8,8 +7,10 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+----
+I am a third year M.Sc. student at the department of ECE at the University of Tehran, Tehran, Iran. I received my B.Sc. degree in 2016 from the Shiraz University, Shiraz, Iran. Since September 2017, I started my Master's program under the supervision of Dr. MohammadReza abolghasemi dehaghani. My main research interests in system neuroscience and machine learning. As a side-work, I have been a member of HiBrainy working on some industrial projects including Text-To-Speech, face anti-spoofing, liveness detection, head pose estimation, face depth estimation, and face emotion detection. All these topics include many uncertainty factors and challenging problems to solve and I'm really happy with what I do in both research and industry. Currently, I am Research Assistant at the University of Tehran Cognitive Systems Lab. 
 
->
+
 <!---
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 >
