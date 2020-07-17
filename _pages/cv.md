@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+[Download cv here](http://esmaeilfarhang.github.io/files/CV.pdf)
+
+
 EDUCATION
 ======
 * Master of Science - MS, Computer Engineering (AI), University of Tehran, SEP 2017 - SEP 2020
@@ -22,20 +25,17 @@ ACADEMIC EXPERIENCE
     * Thesis title: "‫‪Effect‬‬ ‫‪of‬‬ ‫‪spatial‬‬ ‫‪frequency‬‬ ‫‪content‬‬ ‫‪on‬‬ ‫‪the‬‬ ‫‪hierarchical‬‬ ‫‪object‬‬ ‫‪recognition‬‬"
     * Supervisor: Dr.Mohammad Reza Abolghasemi Dehaghani & Dr. Babak Arabi
   
-  * Spring 2019 & 2020: Graduate Teaching Assistant 
-    * University of Tehran
+  * Spring 2019 & 2020: Graduate Teaching Assistant at University of Tehran
     * Deep Learning with Applications
     * Course instructor: Dr. Reshad Hosseini
     * Responsibilities included Designing homework and helping students with assignments, delivery the assignment, marking projects and exams.
   
-  * Fall 2019: Graduate Teaching Assistant 
-    * University of Tehran
+  * Fall 2019: Graduate Teaching Assistant at University of Tehran
     * Statistical inference 
     * Course instructor: Dr.Mohammad Reza Abolghasemi Dehaghani
     * Responsibilities included Designing homework and Labs and helping students with assignments, marking assignments and exams.
   
-  * Fall 2018: Graduate Teaching Assistant 
-    * University of Tehran
+  * Fall 2018: Graduate Teaching Assistant at University of Tehran
     * Pattern Recognition 
     * Course instructor: Dr. Babak Arabi
     * Responsibilities included Designing homework and helping students with assignments, marking assignments and exams.
