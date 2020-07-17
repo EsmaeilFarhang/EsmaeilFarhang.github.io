@@ -6,5 +6,4 @@ tags:
   - category2
 ---
 
-This is test ...
-
+We live in days when meeting our loved ones is hard and not a sign of love. The world has shown us another side of itself. We wish to be together. Intimacy has taken on a different color and smell. But will this be a warning to us? ...
