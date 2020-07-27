@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 
 ---
-</font font-style: oblique;>
+<font font-style: oblique;>
 I will be a senior from department of ECE at the University of Tehran, Tehran, Iran. I received my B.Sc. degree in 2016 from the Shiraz University, Shiraz, Iran. Since September 2017, I started my Master's program under the supervision of Dr. Abolghasemi Dehaghani. 
 
 My main research interests in the <font color="blue"> system and computational neuroscience, Deep learning, and  machine learning. </font> As a side-work, I have been a member of HiBrainy working on some industrial projects including (TTS)Text-To-Speech, face anti-spoofing, liveness detection, head pose estimation, face depth estimation, and face emotion detection. 
