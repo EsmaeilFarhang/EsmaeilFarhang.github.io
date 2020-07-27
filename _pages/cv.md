@@ -11,15 +11,13 @@ redirect_from:
 
 [Download cv here](http://esmaeilfarhang.github.io/files/CV.pdf)
 
-
 <font color="green">EDUCATION</font>
-
 * Master of Science - MS, Computer Engineering (AI), University of Tehran, SEP 2017 - SEP 2020
 * Bachelor of Science - BS. Mathematics and Computer Science, Shiraz University, SEP 2011 - SEP 2106
 
 <font color="green">ACADEMIC EXPERIENCE</font>
   * Research Assistant at the University of Tehran Cognitive Systems Lab(June 2018 - now)
-    * Thesis title: <font color="lightblue">‫‪Effect‬‬ ‫‪of‬‬ ‫‪spatial‬‬ ‫‪frequency‬‬ ‫‪content‬‬ ‫‪on‬‬ ‫‪the‬‬ ‫‪hierarchical‬‬ ‫‪object‬‬ ‫‪recognition‬‬</font>
+    * Thesis title: <font color="darkblue">‫‪Effect‬‬ ‫‪of‬‬ ‫‪spatial‬‬ ‫‪frequency‬‬ ‫‪content‬‬ ‫‪on‬‬ ‫‪the‬‬ ‫‪hierarchical‬‬ ‫‪object‬‬ ‫‪recognition‬‬</font>
     * Supervisor: Dr.Mohammad Reza Abolghasemi Dehaghani & Dr. Babak Arabi
   * Graduate Teaching Assistant at University of Tehran(Spring 2019 & 2020)
     * Deep Learning with Applications, Course instructed by Dr. Reshad Hosseini.
