@@ -1,20 +1,13 @@
 ---
-title: ""
-collection: teaching
-type: "Undergraduate course"
+title: "Teaching Assistant"
+collection: Teaching Assistant
+type: "Deep Learning with Applications"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "University of Tehran, School of Electrical and Computer Engineering, University College of Engineering"
+date: 2019-01-01, 2020-01-01
+location: "Tehran, Iran"
 ---
 
-<!-- This is a description of a teaching experience. You can use markdown like any other post. -->
-
-<!-- Heading 1 -->
-<!-- ====== -->
-
-<!-- Heading 2 -->
-<!-- ====== -->
-
-<!-- Heading 3 -->
-<!-- ====== -->
+* **Course instrucor**: Dr. Reshad Hosseini.
+* **Topics**: deep neural networks and applications in image-based tasks, sequence to sequence models, and applications in speech and NLP based tasks. Generative models and deep RL.
+* Our responsibilities included Designing homework and helping students with assignments, delivering the assignment, marking projects, and exams.
