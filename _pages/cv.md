@@ -19,7 +19,7 @@ redirect_from:
   * Research Assistant at the University of Tehran Cognitive Systems Lab(June 2018 - now)
     * Thesis title:<font color="darkblue">Effect of Spatial frequency content on the hierarchical object recognition</font>
     * Supervisor: Dr.Mohammad Reza Abolghasemi Dehaghani & Dr. Babak Arabi
-  * Graduate Teaching Assistant at University of Tehran
+  * Graduate Teaching Assistant at University of Tehran ([see](https://esmaeilfarhang.github.io/teaching/2014-spring-teaching-1))
     * Deep Learning with Applications, Course instructed by Dr. Reshad Hosseini(Spring 2019 & 2020)
     * Statistical inference, Course instructed by Dr. Abolghasemi Dehaghani(Fall 2019)
     * Pattern Recognition, Course instructed by Dr. Babak Arabi(Fall 2018)
