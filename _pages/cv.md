@@ -17,7 +17,7 @@ redirect_from:
 
 <font color="green">ACADEMIC EXPERIENCE</font>
   * Research Assistant at the University of Tehran Cognitive Systems Lab(June 2018 - now)
-    * Thesis title: <font color="darkblue">‫‪Effect‬‬ ‫‪of‬‬ ‫‪spatial‬‬ ‫‪frequency‬‬ ‫‪content‬‬ ‫‪on‬‬ ‫‪the‬‬ ‫‪hierarchical‬‬ ‫‪object‬‬ ‫‪recognition‬‬</font>
+    * Thesis title:<font color="darkblue">Effect of Spatial frequency content on the hierarchical object recognition</font>
     * Supervisor: Dr.Mohammad Reza Abolghasemi Dehaghani & Dr. Babak Arabi
   * Graduate Teaching Assistant at University of Tehran(Spring 2019 & 2020)
     * Deep Learning with Applications, Course instructed by Dr. Reshad Hosseini.
