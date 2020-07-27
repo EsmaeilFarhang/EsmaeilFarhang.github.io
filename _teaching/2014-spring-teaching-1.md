@@ -4,7 +4,7 @@ collection: Teaching Assistant
 type: "Graduate Course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University of Tehran, School of Electrical and Computer Engineering"
-date: 2017 to 2020
+date: 2017-01-01
 location: "Tehran, Iran"
 
 ---
