@@ -12,13 +12,13 @@ redirect_from:
 [Download cv here](http://esmaeilfarhang.github.io/files/CV.pdf)
 
 
-EDUCATION
+``` diff + EDUCATION ```
 ======
 * Master of Science - MS, Computer Engineering (AI), University of Tehran, SEP 2017 - SEP 2020
  
 * Bachelor of Science - BS. Mathematics and Computer Science, Shiraz University, SEP 2011 - SEP 2106
 
-ACADEMIC EXPERIENCE
+``` diff + ACADEMIC EXPERIENCE ```
 ======
   * June 2018 - now: Research Assistant 
     * University of Tehran Cognitive Systems Lab
@@ -41,13 +41,13 @@ ACADEMIC EXPERIENCE
     * Responsibilities included Designing homework and helping students with assignments, marking assignments and exams.
 
 
-WORK EXPERIENCE
+``` diff + WORK EXPERIENCE ```
 ======
 * July 2019 - June 2020: Machine Learning R&D Engineer
   * HiBrainy Co
   * R&D activities on machine learning problems including text to speech, liveness detection, head pose estimation, and face emotion detection, etc.
   
-PROGRAMMING SKILLS
+``` diff + PROGRAMMING SKILLS ```
 ======
   * Programming Languages: Python, C/C++, R
   * Deep Learning Frameworks: Pytorch, Tensorflow, Keras
@@ -56,10 +56,10 @@ PROGRAMMING SKILLS
   * Linux / Git / Docker
   
   
-PUBLICATIONS
+``` diff + PUBLICATIONS ```
 ======
   
  
-TALKS
+``` diff + TALKS ```
 ======
   
