@@ -1,15 +1,25 @@
 ---
-title: "Paper Title Number 1"
+title: "Poster presentation"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+excerpt: ''
+date: 2019-10-18
+venue: 'Basic and Clinicall Neuroscience Congress(BCNC)2019'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Esmail Farhang, You. (2019). &quot;Temporal Dynamic of Spatial Frequency Representation in IT Cortex.&quot; <i>BCNC-2019</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+**Temporal Dynamic of Spatial Frequency Representation in IT Cortex**
+One of the important features in information processing along the visual hierarchy from the retina to the inferotemporal cortex is the spatial frequency of input images. A massive body of studies suggests that stimulus with different frequency contents has distinct representations in the primary visual system. However the representation of stimulus with different spatial frequencies
+in high level visual areas across ventral stream is poorly understood.\ 
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Using neural data recorded from the monkey brain, we examined and analyzed the representation of spatial frequency filtered objects at different levels of abstraction. A combination of coding and decoding methods were applied to extract temporal dynamics of category information at a different level of abstraction. Using band pass spatial frequency filters, we produce three
+versions of stimuli including Intact (no filter), High (high pass spatial frequency filter), and Low(low pass spatial frequency filter).\
+
+Consistent with previous studies, we observed the basic level advantages in Intact stimuli, whereas the temporal dynamic of category representation exhibits different patterns of advantages in Low and High spatial frequency stimuli. In Low stimuli, there is great advantage of the basic level while in High stimuli, the basic and subordinate level exhibit similar time
+course of representation.\
+
+Our observation provide an evidence for interaction of spatial frequency and temporal dynamics of category representation in the visual cortex.
+
+[Download poster here](http://academicpages.github.io/files/BCNC.pdf)
+
