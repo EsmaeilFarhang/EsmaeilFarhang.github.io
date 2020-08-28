@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 
 ---
-I graduated in AI from the Department of ECE at the University of Tehran, Tehran, Iran. My thesis title was "Effect of Spatial frequency content on the hierarchical object recognition" under the supervision of Dr. Abolghasemi Dehaghani. I received my B.Sc. degree in mathematics in 2016 from Shiraz University, Shiraz, Iran.  
+I graduated in AI from the School of Electrical and Computer Engineering at the University of Tehran, Tehran, Iran. My thesis title was "Effect of Spatial frequency content on the hierarchical object recognition" under the supervision of Dr. Abolghasemi Dehaghani. I received my B.Sc. degree in mathematics in 2016 from Shiraz University, Shiraz, Iran.  
 
 My main research interests are in <font color="green"> deep learning, machine learning, data science, and application of AI in medicine and related fields</font>. During my education period, I did a variety of projects and research for different courses that helped me to learn research and technical skills. As a side-work, I have been working as a Machine Learning R&D Engineer on some industrial and research projects, including converting Text-To-Speech(TTS), face anti-spoofing, head pose estimation, face depth estimation, and face emotion detection. All these topics included many challenging problems to solve. I am really happy to use my knowledge in both research and industry and improved my development and analytical skills. 
 
