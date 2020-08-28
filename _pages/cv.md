@@ -16,17 +16,7 @@ redirect_from:
     * Thesis title:<font color="darkblue">Effect of Spatial frequency content on the hierarchical object recognition</font>
     * Supervisor: Dr.Mohammad Reza Abolghasemi Dehaghani & Dr. Babak Arabi
     * GPA: 17.00/20.00
-
 * Bachelor of Science, Major in Mathematics & Minor in Computer Science, Shiraz University, SEP 2011 - SEP 2106
-
-<font color="green">FIELDS OF INTEREST</font>
-  * Machine Learning and Deep Learning
-  * Data Science
-  * AI in Healthcare  
-  * ystem and Computational Neuroscience
-  * Machine Vision 
-  * Speech Processing
-
 <font color="green">ACADEMIC EXPERIENCE</font>
   * Research Assistant at the University of Tehran Cognitive Systems Lab(June 2018 - now)
 
@@ -45,14 +35,21 @@ novel deep learning methods
   * Esmaeil F, Mohamad-Reza A, Babak A. Temporal Dynamic of Spatial Frequency Representation in IT Cortex. Poster presented
 at: 8'th Basic and Clinical Neuroscience Congress; 2019 December 18-20; Iran University of Medical Sciences, Tehran, Iran
   * Under Preparation: Esmaeil F, Ramin T, Mohamad-Reza A, Babak A. Is Basic level advantage maintain in HSF and LSF? -->
-  
+
 <font color="green">PROGRAMMING SKILLS</font>
   * Programming Languages: Python, C/C++, R
   * Deep Learning Frameworks: Pytorch, Tensorflow, Keras
   * Speech Recognition and Synthesis Toolkit: Kaldi, Espnet, Marytts, HTS
   * Other Languages: Familiar with Java, Android, and Haskell Languages
   * Linux / Git / Docker
-  
+
+<font color="green">FIELDS OF INTEREST</font>
+  * Machine Learning and Deep Learning
+  * Data Science
+  * AI in Healthcare  
+  * Machine Vision 
+  * Speech Processing  
+  * system and Computational Neuroscience
   
 <!-- PUBLICATIONS -->
   
