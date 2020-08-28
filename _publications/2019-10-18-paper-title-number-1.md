@@ -1,11 +1,11 @@
 ---
 title: "Poster presentation"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2019-10-18-paper-title-number-1
 excerpt: ''
 date: 2019-10-18
 venue: 'Basic and Clinicall Neuroscience Congress(BCNC)2019'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: ''
 citation: 'Esmail Farhang, You. (2019). &quot;Temporal Dynamic of Spatial Frequency Representation in IT Cortex.&quot; <i>BCNC-2019</i>. 1(1).'
 ---
 
@@ -21,5 +21,4 @@ course of representation.\
 
 Our observation provide an evidence for interaction of spatial frequency and temporal dynamics of category representation in the visual cortex.
 
-[Download poster here](http://academicpages.github.io/files/BCNC.pdf)
 
