@@ -2,12 +2,11 @@
 title: "Graduate Courses"
 collection: Courses
 type: "Graduate Course"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/2017-spring-teaching-1
 venue: "University of Tehran, School of Electrical and Computer Engineering"
 date: 2017-01-01
 location: "Tehran, Iran"
 ---
-
 * <font color="green">Deep Learning with Applications (Spring 2018) </font> 
 	* Implementation Neural Network Combined with RNN and CNN and Use CTC loss for Librispeech data set for converting speech to text.
 	* Implementation parallel structure Gaussian mixture model -hidden Markov model (GMM-HMM) using the Viterbi and Boum-Welch algorithm, and compare with the gaussian mixture model - Deep Neural Network (GMM - DNN) on Spoken Arabic Digit Data Set.
@@ -26,5 +25,5 @@ location: "Tehran, Iran"
 * <font color="green">Statistical Inference (Spring 2018) </font>
 	* Analyzing and Visualizing the FIFA Player dataset with R
 * <font color="green">Advanced Robotics (Spring 2018) </font> 
-	* Implementation of a particle filtering algorithm for Localization, kidnapping, and slam problem with Epuck robot in Real Environment with C++.
+	* Implementation of particle filtering algorithm for Localization, kidnapping, and slam problem with Epuck robot in Real Environment with C++.
 
