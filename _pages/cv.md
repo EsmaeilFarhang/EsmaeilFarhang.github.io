@@ -49,7 +49,7 @@ at: 8'th Basic and Clinical Neuroscience Congress; 2019 December 18-20; Iran Uni
   * AI in Healthcare  
   * Machine Vision 
   * Speech Processing  
-  * system and Computational Neuroscience
+  * System and Computational Neuroscience
   
 <!-- PUBLICATIONS -->
   
