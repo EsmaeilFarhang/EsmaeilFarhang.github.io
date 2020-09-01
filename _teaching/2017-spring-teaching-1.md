@@ -10,6 +10,7 @@ location: "Tehran, Iran"
 * <font color="green">Deep Learning with Applications (Spring 2018) </font> 
 	* Implementation Neural Network Combined with RNN and CNN and Use CTC loss for Librispeech data set for converting speech to text.
 	* Implementation parallel structure Gaussian mixture model -hidden Markov model (GMM-HMM) using the Viterbi and Boum-Welch algorithm, and compare with the gaussian mixture model - Deep Neural Network (GMM - DNN) on Spoken Arabic Digit Data Set.
+
 * <font color="green">Cognitive Neuroscience (Spring 2019)</font> 
 	* Implement a Behavioral and psychological task
 	* Brain Neural Data Analysis using machine learning tools
